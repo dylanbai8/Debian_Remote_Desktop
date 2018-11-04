@@ -1,4 +1,4 @@
-### 小内存VPS快速安装LXDE桌面环境命令
+### 小内存VPS快速安装LXDE桌面环境 (以下命令适用于 Debian Ubuntu)
 
 ---
 ---
